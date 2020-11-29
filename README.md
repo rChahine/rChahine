@@ -23,4 +23,4 @@
 
 ### How to contact me 
 
-<img src="https://img.shields.io/badge/romain%20chahine%20-white?&style=for-the-badge&logo=Linkedin&logoColor=blue"/>
+[<img src="https://img.shields.io/badge/romain%20chahine%20-white?&style=for-the-badge&logo=Linkedin&logoColor=blue"/>](https://www.linkedin.com/in/romain-chahine/)
