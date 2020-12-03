@@ -19,7 +19,7 @@
 
 
 #### Front-end
-<img src="https://img.shields.io/badge/vuejs%20-white?&style=for-the-badge&logo=vue.js"/><img src="https://img.shields.io/badge/angular%20-white?&style=for-the-badge&logo=Angular&logoColor=red"/>
+<img src="https://img.shields.io/badge/vuejs%20-white?&style=for-the-badge&logo=vue.js"/><img src="https://img.shields.io/badge/angular%20-white?&style=for-the-badge&logo=Angular&logoColor=red"/><img src="https://img.shields.io/badge/react%20-white?&style=for-the-badge&logo=react"/>
 
 ### How to contact me 
 
