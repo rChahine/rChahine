@@ -5,7 +5,7 @@
 
 ### Who am I ? :man:
  
-:white_check_mark: French student in computer sciences (fourth-year university level)
+:white_check_mark: French student in computer sciences (fifth-year university level)
 
 :white_check_mark: Web technologies lover
 
