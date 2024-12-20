@@ -5,7 +5,7 @@
 
 ### Who am I ? :man:
  
-:white_check_mark: French student in computer sciences (fifth-year university level)
+:white_check_mark: French full stack developer @ Solocal Group
 
 :white_check_mark: Web technologies lover
 
@@ -15,7 +15,7 @@
 ### What I'm focusing on :dart:
 
 #### Back-end
-<img src="https://img.shields.io/badge/Fastapi%20-white?logo=fastapi&style=for-the-badge"/><img src="https://img.shields.io/badge/Laravel%20-white?logo=Laravel&style=for-the-badge"/><img src="https://img.shields.io/badge/node.js%20-white?logo=node.js&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fastapi%20-white?logo=fastapi&style=for-the-badge"/><img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
 
 
 #### Front-end
