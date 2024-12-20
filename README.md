@@ -1,8 +1,6 @@
 
 ## Hello there ! 🤙
 
-![stats](https://github-readme-stats.vercel.app/api?username=rChahine&count_private=true&show_icons=true&theme=radical)
-
 ### Who am I ? :man:
  
 :white_check_mark: French full stack developer @ Solocal Group
