@@ -1,24 +1,20 @@
-
 ## Hello there ! 🤙
+👋 Hi! I’m a developer who love Python and Node.js, with a strong focus on writing clean, high-quality code.
 
-### Who am I ? :man:
- 
-:white_check_mark: French full stack developer @ Solocal Group
+💻 I enjoy building robust and maintainable projects while exploring new technologies and best practices.
 
-:white_check_mark: Web technologies lover
-
-:white_check_mark: Meme maker
-
+📍 Currently looking for job opportunities in Geneva.
 
 ### What I'm focusing on :dart:
 
 #### Back-end
-<img src="https://img.shields.io/badge/Fastapi%20-white?logo=fastapi&style=for-the-badge"/><img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Front-end
-<img src="https://img.shields.io/badge/vuejs%20-white?&style=for-the-badge&logo=vue.js"/><img src="https://img.shields.io/badge/angular%20-white?&style=for-the-badge&logo=Angular&logoColor=red"/><img src="https://img.shields.io/badge/react%20-white?&style=for-the-badge&logo=react"/>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### How to contact me 
 
-[<img src="https://img.shields.io/badge/romain%20chahine%20-white?&style=for-the-badge&logo=Linkedin&logoColor=blue"/>](https://www.linkedin.com/in/romain-chahine/)
+<a href="mailto:romain.chahine@outlook.fr">✉️ romain.chahine@outlook.fr</a>
