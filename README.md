@@ -1,11 +1,13 @@
 ## Hello there ! 🤙
-👋 Hi! I’m a developer who love Python and Node.js, with a strong focus on writing clean, high-quality code.
+👋 Hi! I’m a developer who loves Python and Node.js, with a strong focus on writing clean, maintenable and tested code.
 
 💻 I enjoy building robust and maintainable projects while exploring new technologies and best practices.
 
-📍 Currently looking for job opportunities in Geneva.
+📍 Currently looking for job opportunities near Geneva, Switzerland.
 
-### What I'm focusing on :dart:
+### What I'm currently focused on
+
+ :dart: Learning vector search and to build RAG to enhance LLMs user prompts
 
 #### Back-end
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -14,6 +16,7 @@
 
 #### Front-end
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### How to contact me 
 
